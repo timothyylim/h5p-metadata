@@ -1,0 +1,6 @@
+{
+  "keywords": "personality, quiz",
+  "license": "MIT",
+  "shortDescription": "Create personality quizzes",
+  "description": "In this content type, the author defines a series of questions with alternatives, where each alternative is matched against one or more personalities. At the end of the quiz, the end user will see which personality matches the best. There are several ways of making this quiz visually appealing, by eg. representing questions, alternatives, and personalities using images."
+}

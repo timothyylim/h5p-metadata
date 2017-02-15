@@ -1,0 +1,6 @@
+{
+  "keywords": "documentation, assessments, forms",
+  "license": "MIT",
+  "shortDescription": "Create a form wizard with text export",
+  "description": "The documentation tool aims to make it easy to create assessment wizards for goal driven activities. It can also be used as a form wizard. While editing, the author can add multiple steps to the wizard. In each step, the author can define which content goes into that step. Content can be plain text, input fields, goal definition and goal assessment. Once published, the end user will be taken through the steps of the wizard. On the last step of the wizard, the user can generate a document with all the input that has been submitted. This document can be downloaded. The Documentation tool is fully responsive and works great on smaller screens as well as on your desktop."
+}

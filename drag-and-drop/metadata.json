@@ -1,0 +1,6 @@
+{
+  "keywords": "drag and drop",
+  "license": "MIT",
+  "shortDescription": "Create drag and drop tasks with images",
+  "description": "Drag and drop question enables the learner to associate two or more elements and to make logical connections in a visual way. Create Drag and drop questions using both text and images as draggable alternatives. H5P Drag and drop questions support one-to-one, one-to-many, many-to-one and many-to-many."
+}

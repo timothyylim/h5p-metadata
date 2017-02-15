@@ -1,0 +1,6 @@
+{
+  "keywords": "math, arithmetic quiz, countdown",
+  "license": "MIT",
+  "shortDescription": "Create time-based arithmetic quizzes",
+  "description": "Auto generate arithmetic quizzes consisting of multiple choice questions. As an author, all you have to do is decide the type and length of the quiz. Users keep track of score and time spent when solving the quiz."
+}

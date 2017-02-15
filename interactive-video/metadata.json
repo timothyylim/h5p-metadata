@@ -1,0 +1,6 @@
+{
+  "keywords": "interactive, video",
+  "license": "MIT",
+  "shortDescription": "Create videos enriched with interactions",
+  "description": "Videos may be enriched with interactivities like explanations, extra pictures, tables, Fill in the Blank and multiple choice questions. Quiz questions support adaptivity, meaning that you can jump to another part of the video based on the user's input.  Interactive summaries can be added at the end of the video. Interactive videos are created and edited using the H5P authoring tool in a standard web browser."
+}

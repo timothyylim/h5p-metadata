@@ -1,0 +1,6 @@
+{
+  "keywords": "mark, words",
+  "license": "MIT",
+  "shortDescription": "Create a task where users highlight words",
+  "description": "Mark the words allows content designers to create textual expressions with a defined set of correct words. The end user highlights words according to the task description and is given a score. For the editor it is super easy to create a click the words challenge. The editor types in the text and encloses the words that the user is supposed to click, the right answers, in asterix like *correctWord*."
+}

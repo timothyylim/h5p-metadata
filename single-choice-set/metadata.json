@@ -1,0 +1,6 @@
+{
+  "keywords": "collection, quiz, choice",
+  "license": "MIT",
+  "shortDescription": "Create questions with one correct answer",
+  "description": "Single choice set allows content designers to create question sets with one correct answering alternative per question, in just a few seconds. The end user gets immediate feedback after submitting each answer."
+}

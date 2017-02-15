@@ -1,0 +1,6 @@
+{
+  "keywords": "questionnaire",
+  "license": "MIT",
+  "shortDescription": "Create a questionnaire to receive feedback",
+  "description": "Gain feedback and ask open ended questions in Interactive Videos and other content types with Questionnaire. Questionnaire makes the user's answers available via xAPI. This means that website owners may store the answers in many different ways. Answers may be stored in an LRS, the sites own custom storage or a script may for instance fetch the e-mail address and use it to send the user an e-mail. On H5P.org answers are stored in Google Analytics."
+}

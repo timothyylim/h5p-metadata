@@ -1,0 +1,6 @@
+{
+  "keywords": "true, false",
+  "license": "MIT",
+  "shortDescription": "Create True/False questions",
+  "description": "True/False Question is a simple and straightforward content type that can work by itself or combined into other content types such as Course Presentation. A more complex question can be created by adding an image or a video."
+}

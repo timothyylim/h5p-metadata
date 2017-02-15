@@ -1,0 +1,6 @@
+{
+  "keywords": "fill, blanks, text",
+  "license": "MIT",
+  "shortDescription": "Create a task with missing words in a text",
+  "description": "Learners fill in the missing words in a text. The learner is shown a solution after filling in all the missing words, or after each word depending on settings. Authors enter text and mark words to be replaced with an asterix. In addition to native and second language learning, Fill in the blanks can be used to test the learner's ability to reproduce facts or produce mathematical inferences."
+}

@@ -1,0 +1,6 @@
+{
+  "keywords": "image, hotspot",
+  "license": "MIT",
+  "shortDescription": "Create an image with multiple info hotspots",
+  "description": "Image hotspots makes it possible to create an image with interactive hotspots. When the user presses a hotspot, a popup containing a header and text or video is displayed. Using the H5P editor, you may add as many hotspots as you like."
+}

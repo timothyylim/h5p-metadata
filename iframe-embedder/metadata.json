@@ -1,0 +1,6 @@
+{
+  "keywords": "embed, iframe",
+  "license": "MIT",
+  "shortDescription": "Embed from a url or a set of files",
+  "description": "The Iframe embedder makes it easy to make an H5P of already existing JavaScript applications."
+}

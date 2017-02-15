@@ -1,0 +1,6 @@
+{
+  "keywords": "find, hotspot, image",
+  "license": "MIT",
+  "shortDescription": "Create image hotspots for users to find",
+  "description": "This content type allows end users to press somewhere on an image and get feedback on whether that was correct or incorrect according to the task description. The author uploads an image and defines various hotspots corresponding to details or sections of the image. Hotspots can either be defined as correct or incorrect, and the author provides appropriate feedback text in both cases. The author can also define a feedback if the end user presses somewhere which is neither defined as a correct nor incorrect hotspot."
+}

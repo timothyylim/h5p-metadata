@@ -1,0 +1,6 @@
+{
+  "keywords": "timeline",
+  "license": "MIT",
+  "shortDescription": "Create a timeline of events with multimedia",
+  "description": "This is Timeline.js developed by Knight Lab, packaged as an H5P content type in order to make timelines easily editable, shareable and reuseable. The Timeline content type allows you to place a sequence of events in a chronological order. For each event you may add images and texts. You may also include assets from Twitter, YouTube, Flickr, Vimeo, Google Maps and SoundCloud."
+}

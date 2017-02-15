@@ -1,0 +1,6 @@
+{
+  "keywords": "guess, answer",
+  "license": "MIT",
+  "shortDescription": "Create an image with a question and answer",
+  "description": "This content type allows authors to upload an image and add a suitable description. End users can guess the answer and press the bar below the image to reveal the correct answer."
+}

@@ -1,0 +1,6 @@
+{
+  "keywords": "drag, words",
+  "license": "MIT",
+  "shortDescription": "Create text-based drag and drop tasks",
+  "description": "Drag the Words allows content designers to create textual expressions with missing pieces of text. The end user drags a missing piece of text to its correct place, to form a complete expression. May be used to check if the user remembers a text she has read, or if she understands something. Helps the user think through a text. It's super easy to create a drag the words task. The editor just writes the text and encloses the words that are to be draggable with asterix signs like *draggableWord*."
+}
